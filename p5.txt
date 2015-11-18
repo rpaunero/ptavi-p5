@@ -286,6 +286,7 @@ Captura una sesión SIP de una conversación con el número SIP sip:9999@qxip.ne
         Src port 5062: 3.88s
 
  ** ¿Podrías reproducir la conversación desde Wireshark? ¿Cómo? Comprueba que poniendo un valor demasiado pequeño para el buffer de jitter, la conversación puede no tener la calidad necesaria.
+
     Si. Debemos seguir los siguientes pasos:
         1º)Telephony
         3º)RTP
@@ -294,7 +295,9 @@ Captura una sesión SIP de una conversación con el número SIP sip:9999@qxip.ne
         6º)Analyze
         7º)Player
         8º)View as time of day
+
  ** ¿Sabrías decir qué tipo de servicio ofrece sip:9999@qxip.net?
+
     Si, ofrece un servicio de audio.
 
 [Al terminar el ejercicio es recomendable hacer commit de los ficheros modificados]
