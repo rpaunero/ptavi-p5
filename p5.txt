@@ -63,6 +63,7 @@ Se ha capturado una sesión SIP (archivo sip.cap.gz), que se puede abrir con Wir
 
  ** ¿Por qué se pide también para 35.162.64.86.in-addr.arpa?
 
+    Para conocer la misma dirección, pero de orden inverso.
 
 6. A continuación, hay más de una docena de tramas TCP/HTTP.
  ** ¿Podrías decir la URL que se está pidiendo?
